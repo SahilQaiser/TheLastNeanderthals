@@ -1,0 +1,43 @@
+h1 {
+    font-family: 'ZCOOL KuaiLe', cursive;
+    text-align: center;
+}
+h2, h3, h4, h4 {
+    text-align: center;
+    font-family: 'Shadows Into Light', cursive;
+}
+body{
+    background-color: #ddd;
+}
+.title
+{
+    margin-top:5px;
+    padding-top:25px;
+    background-color: rgba(0, 0, 0, 0.178);
+    height:auto;
+}
+p{
+    font-family: 'Happy Monkey', cursive;
+}
+.on-img{
+    position: relative;
+    margin-top: -30px;
+    color:rgb(32, 9, 9);
+    background-color: rgba(233, 204, 43, 0.473); 
+}
+.card
+{
+    border:none;
+    padding-left: 5%;
+    padding-right: 10%;
+    background-color: #ddd;
+    padding:10px;
+    margin:10px;
+    border-radius: 5%;
+}
+.card:hover{
+    border:double rgb(161, 196, 161);
+}
+img {
+    max-width: 200px!important;
+}
